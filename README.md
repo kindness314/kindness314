@@ -2,17 +2,16 @@
 
 # kindness314
 
-**Software Engineering @ Yanshan University**
+### Software Engineering @ Yanshan University
 
 `Python` · `TypeScript` · `C++` · `AI-assisted development`
 
-<sub>build things I actually want to use.</sub>
+**building things I actually want to use.**
 
-<br><br>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kindness314-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kindness314)
-[![163 Mail](https://img.shields.io/badge/Email-kindness314%40163.com-555555?style=flat-square)](mailto:kindness314@163.com)
-[![Gmail](https://img.shields.io/badge/Gmail-kindness31413-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kindness31413@gmail.com)
+[![Followers](https://img.shields.io/github/followers/kindness314?style=flat-square\&logo=github\&label=Followers)](https://github.com/kindness314?tab=followers)
 
 </div>
 
@@ -22,12 +21,13 @@
 
 燕山大学软件工程专业大二在读。
 
-主要使用 **Python、TypeScript 和 C++**。
-喜欢把自己遇到的问题，或者突然冒出来的想法，真正做成能用的东西。
+目前主要使用 **Python、TypeScript 和 C++**。
+
+喜欢把自己遇到的问题，或者突然冒出来的想法，真正做成可以使用的东西。
 
 最近比较感兴趣的是 **AI 应用、个人知识管理和实用工具**。
 
-开发过程中会使用 AI Coding Agent 辅助需求整理、实现、测试与调试，同时也在慢慢补齐自己对系统设计和工程开发的理解。
+开发过程中会使用 **AI Coding Agent** 辅助需求整理、实现、测试与调试，同时也在继续补齐自己对软件工程、系统设计和项目开发的理解。
 
 <br>
 
@@ -37,7 +37,7 @@
 
 > 一个自己折腾的、带长期记忆和人格系统的 AI 聊天机器人。
 
-长期记忆 · 人物画像 · 主动对话 · 插件 · Tool Calling · Docker 沙箱 · Web 管理界面 · QQ / OneBot
+目前实现了长期记忆、人物画像、人格系统、主动对话、插件、Tool Calling、上下文压缩、Docker 沙箱和 Web 管理界面，也接入了 QQ / OneBot。
 
 `Python` `FastAPI` `SQLite` `Qdrant` `Docker`
 
@@ -45,9 +45,9 @@
 
 ### 🧠 [EvolvMind](https://github.com/kindness314/evolvmind-2025)
 
-> 用来整理碎片信息的个人知识系统。
+> 一个用来整理碎片信息的个人知识系统。
 
-把零散记录和网页内容整理成摘要、关键词、实体与关系，并进一步用于知识图谱和语义搜索。
+把零散记录和网页内容整理成摘要、关键词、实体与关系，并进一步构建个人知识图谱，支持语义搜索和内容回看。
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `pgvector`
 
@@ -57,9 +57,9 @@
 
 > 因为校园网偶尔会掉，所以干脆给自己写了个守护工具。
 
-自动检查网络状态、重新认证，并支持定时任务、宽带认证、Windows 凭据存储和日志脱敏。
+可以持续检查网络状态，在确认掉线后自动重新认证，同时支持校园网 / 宽带认证、定时任务、Windows 凭据存储和日志脱敏。
 
-`Python` `Windows` `PyInstaller`
+`Python` `Windows` `Networking` `PyInstaller`
 
 <br>
 
@@ -69,6 +69,7 @@
 | ----------------- | ---------------------------------------------- |
 | **Languages**     | Python · TypeScript · C++ · C                  |
 | **Web / Backend** | React · FastAPI · PostgreSQL · SQLite          |
+| **AI / Data**     | LLM · Qdrant · pgvector · Supabase             |
 | **Tools**         | Git · Docker · Linux · VS Code · Visual Studio |
 
 <br>
@@ -77,21 +78,29 @@
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=kindness314&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindness314&layout=compact&hide_border=true&theme=transparent" />
+[![GitHub](https://img.shields.io/badge/GitHub-@kindness314-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kindness314)
+[![Repositories](https://img.shields.io/badge/Repositories-View-555555?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kindness314?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/kindness314?style=flat-square\&logo=github\&label=Followers)](https://github.com/kindness314?tab=followers)
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-<sub>
-still learning, still building.
-</sub>
+### still learning, still building.
 
-<br><br>
+<br>
 
-**[kindness314@163.com](mailto:kindness314@163.com)** · **[kindness31413@gmail.com](mailto:kindness31413@gmail.com)**
+📮 **Contact**
+
+[**kindness314@163.com**](mailto:kindness314@163.com)
+[**kindness31413@gmail.com**](mailto:kindness31413@gmail.com)
+
+<br>
+
+Thanks for stopping by :)
 
 </div>
