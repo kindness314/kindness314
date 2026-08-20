@@ -1,109 +1,97 @@
-<!-- 动态横幅 -->
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There%20👋&fontSize=50&fontAlignY=35&desc=kindness314%20-%20Yanshan%20University&descSize=20&descAlignY=55&animation=fadeIn)
+
+# kindness314
+
+**Software Engineering @ Yanshan University**
+
+`Python` · `TypeScript` · `C++` · `AI-assisted development`
+
+<sub>build things I actually want to use.</sub>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-kindness314-24292F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/kindness314)
+[![163 Mail](https://img.shields.io/badge/Email-kindness314%40163.com-555555?style=flat-square)](mailto:kindness314@163.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kindness31413-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kindness31413@gmail.com)
 
 </div>
 
-<!-- 个人介绍 -->
-<div align="center">
-
-#  kindness314
-
-**燕山大学 · 软件工程大一** |  **C/C++ 开发者** |  **开源探索者**
-
-[![GitHub followers](https://img.shields.io/github/followers/kindness314?style=social)](https://github.com/kindness314)
-[![Visitors](https://komarev.com/ghpvc/?username=kindness314&color=blueviolet)](https://github.com/kindness314)
-
-</div>
-
-##  技术栈 & 工具
-
-###  **编程语言**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-###  **开发环境**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Dev C++](https://img.shields.io/badge/Dev%20C++-004482?style=for-the-badge&logo=c&logoColor=white)
-
-##  GitHub 数据看板
-
-<div align="center">
-
-<!-- GitHub统计卡片 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kindness314&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,161b22)
-![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=kindness314&layout=compact&theme=radical&hide_border=true)
-
-<!-- GitHub活动图表 -->
-![GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=kindness314&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)
-
-</div>
-
-##  学术轨迹
-
-<details>
-<summary>📚 点击查看我的学习历程</summary>
-
-###  燕山大学
-- **学院**: 信息科学与工程学院（软件学院）
-- **专业**: 软件工程
-- **年级**: 大一
-- **状态**: 🟢 在读
-
-###  当前课程
-
-
-</details>
-
-##  特色项目
-
-<div align="center">
-
-###  项目正在建设中...
-
-
-</div>
-
-<div align="center">
-
-<!-- 项目卡片 -->
-
-
-</div>
-
-
-
-
-## 成就系统
-
-<div align="center">
-
-### 当前等级
-![Level](https://github-profile-trophy.vercel.app/?username=kindness314&theme=onedark&no-bg=true&row=1)
-
-### 详细成就
-![Achievements]
-
-</div>
-
-## 联系通道
-
-<div align="center">
-
-<!-- 社交徽章 -->
-[![GitHub](https://img.shields.io/badge/GitHub-kindness314-181717?style=for-the-badge&logo=github)](https://github.com/kindness314)
-[![Email](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-%E8%81%94%E7%B3%BB%E6%88%91-D14836?style=for-the-badge&logo=gmail)](mailto:kindness314@163.com)
 <br>
 
-<!-- 波浪分割线 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%">
+## ✦ About
 
- **感谢访问，期待与你交流编程的乐趣！** 
+燕山大学软件工程专业大二在读。
 
-<!-- 动态蛇动画 -->
-![Snake Animation](https://raw.githubusercontent.com/kindness314/kindness314/output/github-contribution-grid-snake.svg)
+主要使用 **Python、TypeScript 和 C++**。
+喜欢把自己遇到的问题，或者突然冒出来的想法，真正做成能用的东西。
+
+最近比较感兴趣的是 **AI 应用、个人知识管理和实用工具**。
+
+开发过程中会使用 AI Coding Agent 辅助需求整理、实现、测试与调试，同时也在慢慢补齐自己对系统设计和工程开发的理解。
+
+<br>
+
+## ✦ Projects
+
+### 🤖 [BotHeart](https://github.com/kindness314/BotHeart)
+
+> 一个自己折腾的、带长期记忆和人格系统的 AI 聊天机器人。
+
+长期记忆 · 人物画像 · 主动对话 · 插件 · Tool Calling · Docker 沙箱 · Web 管理界面 · QQ / OneBot
+
+`Python` `FastAPI` `SQLite` `Qdrant` `Docker`
+
+---
+
+### 🧠 [EvolvMind](https://github.com/kindness314/evolvmind-2025)
+
+> 用来整理碎片信息的个人知识系统。
+
+把零散记录和网页内容整理成摘要、关键词、实体与关系，并进一步用于知识图谱和语义搜索。
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `pgvector`
+
+---
+
+### 🌐 [YSU Net Watch](https://github.com/kindness314/ysu-net-watch)
+
+> 因为校园网偶尔会掉，所以干脆给自己写了个守护工具。
+
+自动检查网络状态、重新认证，并支持定时任务、宽带认证、Windows 凭据存储和日志脱敏。
+
+`Python` `Windows` `PyInstaller`
+
+<br>
+
+## ✦ Stack
+
+|                   |                                                |
+| ----------------- | ---------------------------------------------- |
+| **Languages**     | Python · TypeScript · C++ · C                  |
+| **Web / Backend** | React · FastAPI · PostgreSQL · SQLite          |
+| **Tools**         | Git · Docker · Linux · VS Code · Visual Studio |
+
+<br>
+
+## ✦ GitHub
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=kindness314&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kindness314&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+still learning, still building.
+</sub>
+
+<br><br>
+
+**[kindness314@163.com](mailto:kindness314@163.com)** · **[kindness31413@gmail.com](mailto:kindness31413@gmail.com)**
 
 </div>
